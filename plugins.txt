@@ -25,5 +25,4 @@ docker-commons:1.17
 docker-workflow:1.23
 junit:latest
 timestamper:1.1
-workflow-cps:2.81
 
