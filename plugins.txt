@@ -1,4 +1,5 @@
 ace-editor:latest
+kubernetes
 ws-cleanup:latest
 workflow-scm-step:latest
 workflow-step-api:latest

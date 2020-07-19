@@ -1,0 +1,2 @@
+Jenkins 2.235.2
+docker rmi -f $(docker images -f "dangling=true" -q) (rm dangling images)
