@@ -1,19 +1,19 @@
-ace-editor:latest
+ace-editor:1.1
 kubernetes
-ws-cleanup:latest
+ws-cleanup:0.38
 workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
 pam-auth:latest
 oauth-credentials:latest
 gradle:latest
-blueocean:1.22.0
+blueocean:1.23.2
 build-timeout:latest
-credentials:latest
-credentials-binding:latest
+credentials:2.3.12
+credentials-binding:1.23
 display-url-api:latest
-docker-commons:latest
-docker-workflow:latest
+docker-commons:1.17
+docker-workflow:1.23
 junit:latest
-timestamper:latest
+timestamper:1.1
 
