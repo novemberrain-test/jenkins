@@ -1,5 +1,5 @@
 ace-editor:1.1
-workflow-job:
+workflow-job:2.39
 workflow-api:2.40
 workflow-cps:2.80
 workflow-step-api:2.22
