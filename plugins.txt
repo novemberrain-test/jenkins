@@ -1,4 +1,5 @@
 ace-editor:1.1
+workflow-job:
 workflow-api:2.40
 workflow-cps:2.80
 workflow-step-api:2.22
@@ -25,4 +26,4 @@ docker-commons:1.17
 docker-workflow:1.23
 junit:latest
 timestamper:1.1
-
+parameterized-scheduler:0.8
